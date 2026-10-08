@@ -1,0 +1,11 @@
+{
+  "version": "2.13.0-beta.2",
+  "notes": "Grammarlix Beta 2: floating icon, user-triggered local grammar checks, and signed beta updates.",
+  "pub_date": "2026-10-08T10:56:18.893187Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUem1PQ3dZRGxQWG55REZHd1pMQXQxQmtUbHJueUhleWhTVG5qWUJNZ1ZqWEszekNJYjl4OS9pemp3WGNnZ3RoZ1VoaFJGb2F5ZU5aVmhsU3l0SVJiRHNBRCtFL240d3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDU2OTI2CWZpbGU6R3JhbW1hcmxpeF8yLjEzLjAtYmV0YS4yX3g2NC1zZXR1cC5leGUKTmExN2U1UVBPYjJDYmJTR3dPZkZITDJERUtMUzBGUFRGdnlsNi9aUHFwNWgrVjc5ak9QMURvSlRNc0JEbVpTSXlsTGhKdDZMS3k1bG9aanlqMGthQ0E9PQo=",
+      "url": "https://github.com/FarzadAziziZade/Grammarlix/releases/download/v2.13.0-beta.2/Grammarlix_2.13.0-beta.2_x64-setup.exe"
+    }
+  }
+}
