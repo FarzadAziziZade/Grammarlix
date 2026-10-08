@@ -1,0 +1,17 @@
+Grammarlix - Windows grammar checker
+Windows edition developer: FarzadAziziZade
+https://github.com/FarzadAziziZade
+
+Based on Harper, by Elijah Potter, Automattic, and The Harper Contributors.
+Upstream: https://github.com/Automattic/harper
+Copyright 2026 The Harper Contributors.
+Harper is distributed under the Apache License, Version 2.0 (LICENSE.txt).
+
+Grammarlix adds a floating icon, selection-only and manual text checking, signed
+GitHub beta updates, and changes to Windows accessibility, transparent
+overlay rendering, focus handling, correction safety, defaults, and packaging.
+The original Harper contributors retain credit for the underlying application.
+
+Microsoft Visual C++ runtime DLLs and the Microsoft WebView2 bootstrapper are
+Microsoft components, redistributed under their respective Microsoft terms.
+WebView2, if absent, is downloaded from Microsoft during installation.
